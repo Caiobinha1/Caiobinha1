@@ -19,6 +19,10 @@
 <details>
  <summary><h3>📂 My Coding Journey</h3></summary>
   My dad always tried to convince me to start coding since I was very young, but it wasn't until I was 16 that I had my first "Introduction to c/c++", and just fell in love with the idea of one day becoming a developer. After that, I started doing some online classes to keep learning a little everyday so one day I could achieve my goals, after 2 years studying I got my first Software Devoloper job and there I was taught to work with databases using SQL and Delphi, and now Im in college studying new programming languages everyday!
+ 
+ 
+ ## Contribution Snake 
+ ![snake gif](https://github.com/Caiobinha1/Caiobinha1/blob/output/github-contribution-grid-snake.gif)
 <!--
 **Caiobinha1/Caiobinha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
