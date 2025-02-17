@@ -17,7 +17,9 @@
 
 <details>
  <summary><h3>📂 My Coding Journey</h3></summary>
-  My dad always tried to convince me to start coding since I was very young, but it wasn't until I was 16 that I had my first "Introduction to c/c++", and just fell in love with the idea of one day becoming a developer. After that, I started doing some online classes to keep learning a little everyday so one day I could achieve my goals, after 2 years studying I got my first Software Devoloper job and there I was taught to work with databases using SQL and Delphi, and now Im in college studying new programming languages everyday!
+  My dad always encouraged me to start coding from a young age, but it wasn't until I was 16 that I had my first "Introduction to C/C++" class—and I instantly fell in love with programming. From that moment, I began taking online courses, learning a little more every day to work toward my goal of becoming a developer.
+
+After two years of studying, I landed my first job as a Software Developer, where I worked with databases using SQL and Delphi. Now, I'm in college, exploring new programming languages and expanding my skill set every day!
  
  
 
